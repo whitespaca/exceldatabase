@@ -10,7 +10,7 @@ pip install exceldatabase
 
 ## Usage
 ```python
-from excel_database.database import ExcelDatabase
+from exceldatabase.database import ExcelDatabase
 
 db = ExcelDatabase("data.xlsx")
 db.insert({"Name": "Alice", "Age": 25})
