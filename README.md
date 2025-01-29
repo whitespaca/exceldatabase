@@ -5,7 +5,7 @@ A simple Excel-based database system using openpyxl.
 
 ## Installation
 ```sh
-pip install excel-database
+pip install exceldatabase
 ```
 
 ## Usage
