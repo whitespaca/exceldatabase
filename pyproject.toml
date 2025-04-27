@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "excel-database"
+version = "1.0.0"
+description = "Lightweight Excel-based CRUD database using openpyxl"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+  { name="whitespaca", email="whitespaca@outlook.com" },
+]
+requires-python = ">=3.7"
+dependencies = [
+  "openpyxl>=3.0",
+]
+keywords = ["excel", "database", "crud", "openpyxl"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
