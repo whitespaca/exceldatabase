@@ -39,6 +39,7 @@ db.remove_column("email")
 ## 📖 API Reference
 
 ### `ExcelDatabase(file_path: str, sheet_name: str = "Sheet1")`
+
 - **file_path**: Path to the `.xlsx` file.
 - **sheet_name**: Name of the worksheet to operate on.
 
