@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "excel-database"
-version = "1.0.0"
+version = "1.0.1"
 description = "Lightweight Excel-based CRUD database using openpyxl"
 readme = "README.md"
 license = {text = "MIT"}
@@ -18,5 +18,9 @@ dependencies = [
 keywords = ["excel", "database", "crud", "openpyxl"]
 classifiers = [
   "Programming Language :: Python :: 3.7",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
   "Operating System :: OS Independent",
 ]
