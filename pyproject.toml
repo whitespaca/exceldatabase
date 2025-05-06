@@ -7,7 +7,7 @@ name = "excel-database"
 version = "1.0.0"
 description = "Lightweight Excel-based CRUD database using openpyxl"
 readme = "README.md"
-license = { file = "LICENSE" }
+license = {text = "MIT"}
 authors = [
   { name="whitespaca", email="whitespaca@outlook.com" },
 ]
@@ -18,6 +18,5 @@ dependencies = [
 keywords = ["excel", "database", "crud", "openpyxl"]
 classifiers = [
   "Programming Language :: Python :: 3",
-  "License :: OSI Approved :: MIT License",
   "Operating System :: OS Independent",
 ]
