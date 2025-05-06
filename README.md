@@ -6,6 +6,8 @@ Lightweight Excel-based CRUD “database” backed by an Excel file, powered by 
 
 ## 📦 Installation
 
+Install the library via [pypi](https://pypi.org/project/excel-database):
+
 ```bash
 pip install excel-database
 ```
