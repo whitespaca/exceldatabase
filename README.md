@@ -1,12 +1,6 @@
 # excel-database
-==========
 
-.. image:: https://img.shields.io/pypi/v/excel-database.svg
-   :target: https://pypi.python.org/pypi/excel-database
-   :alt: PyPI version info
-.. image:: https://img.shields.io/pypi/pyversions/excel-database.svg
-   :target: https://pypi.python.org/pypi/excel-database
-   :alt: PyPI supported Python versions
+![pypi](https://img.shields.io/pypi/v/excel-database) ![python](https://img.shields.io/pypi/pyversions/excel-database)
 
 Lightweight Excel-based CRUD “database” backed by an Excel file, powered by `openpyxl`.
 
